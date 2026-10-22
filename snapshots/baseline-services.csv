@@ -1,0 +1,12 @@
+service_id,route,origin,destination,depart_utc,arrive_utc,platform,state,revision
+NR-101,Night Arc,Alder Quay,Bell Foundry,2101-10-31T22:10:00Z,2101-10-31T23:05:00Z,P4,scheduled,1
+NR-102,Coast Owl,Bell Foundry,Cedar Point,2101-10-31T22:30:00Z,2101-10-31T23:40:00Z,P2,scheduled,1
+NR-103,Moor Link,Cedar Point,Dune Gate,2101-10-31T23:00:00Z,2101-10-31T23:55:00Z,P1,scheduled,1
+NR-104,Night Arc,Alder Quay,Dune Gate,2101-10-31T23:20:00Z,2101-11-01T00:40:00Z,P6,scheduled,1
+NR-105,Estuary Star,Elm Dock,Firth Yard,2101-10-31T23:45:00Z,2101-11-01T00:35:00Z,P3,cancelled,1
+NR-106,Hill Sleeper,Glen Halt,Ibis Cross,2101-10-31T21:50:00Z,2101-10-31T23:10:00Z,P5,scheduled,1
+NR-107,Quarry Moon,Jade End,King's Weir,2101-10-31T22:00:00Z,2101-10-31T22:50:00Z,P8,scheduled,1
+NR-102,Coast Owl,Bell Foundry,Cedar Point,2101-10-31T22:35:00Z,2101-10-31T23:45:00Z,P9,scheduled,0
+NR-103,Moor Link,Cedar Point,Dune Gate,2101-10-31T23:00:00Z,2101-10-31T23:55:00Z,P1,scheduled,2
+NR-103,Moor Link,Cedar Point,Dune Gate,2101-10-31T23:00:00Z,2101-10-31T23:55:00Z,P1,scheduled,2
+bad,row

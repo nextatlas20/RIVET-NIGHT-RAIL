@@ -1,0 +1,2 @@
+DRAFT ONLY — historical wording examples are not authoritative evidence.
+Operational comparisons must come from the two sealed snapshots.

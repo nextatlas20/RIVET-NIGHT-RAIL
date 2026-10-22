@@ -1,0 +1,11 @@
+service_id,route,origin,destination,depart_utc,arrive_utc,platform,state,revision
+NR-101,Night Arc,Alder Quay,Bell Foundry,2101-10-31T22:25:00Z,2101-10-31T23:20:00Z,P7,scheduled,2
+NR-102,Coast Owl,Bell Foundry,Cedar Point,2101-10-31T22:30:00Z,2101-10-31T23:40:00Z,P2,cancelled,2
+NR-103,Moor Express,Cedar Point,Dune Gate,2101-10-31T23:00:00Z,2101-10-31T23:55:00Z,P1,scheduled,3
+NR-105,Estuary Star,Elm Dock,Firth Yard,2101-10-31T23:45:00Z,2101-11-01T00:35:00Z,P3,scheduled,2
+NR-106,Hill Sleeper,Glen Central,Ibis Cross,2101-10-31T21:50:00Z,2101-10-31T23:10:00Z,P5,scheduled,2
+NR-107,Quarry Moon,Jade End,King's Weir,2101-10-31T22:00:00Z,2101-10-31T22:50:00Z,P8,scheduled,2
+NR-108,Ridge Local,Larch Bank,Moss Junction,2101-10-31T21:55:00Z,2101-10-31T22:45:00Z,P2,scheduled,1
+NR-106,Hill Sleeper,Glen Halt,Ibis Cross,2101-10-31T21:50:00Z,2101-10-31T23:10:00Z,P5,scheduled,1
+NR-108,Ridge Local,Larch Bank,Moss Junction,2101-10-31T21:55:00Z,2101-10-31T21:40:00Z,P2,scheduled,4
+NR-999,Phantom Run,Nowhere,Elsewhere,not-a-time,2101-11-01T00:00:00Z,P0,scheduled,1
