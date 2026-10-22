@@ -1,0 +1,8 @@
+position	service_id	change_kind	route	origin	destination	effective_depart_utc	details
+1	NR-106	origin_changed	Hill Sleeper	Glen Central	Ibis Cross	2101-10-31T21:50:00Z	origin: Glen Halt -> Glen Central
+2	NR-108	added	Ridge Local	Larch Bank	Moss Junction	2101-10-31T21:55:00Z	not in baseline
+3	NR-101	retimed_and_replatformed	Night Arc	Alder Quay	Bell Foundry	2101-10-31T22:25:00Z	depart_utc: 2101-10-31T22:10:00Z -> 2101-10-31T22:25:00Z; arrive_utc: 2101-10-31T23:05:00Z -> 2101-10-31T23:20:00Z; platform: P4 -> P7
+4	NR-102	cancelled	Coast Owl	Bell Foundry	Cedar Point	2101-10-31T22:30:00Z	state: scheduled -> cancelled
+5	NR-103	route_renamed	Moor Express	Cedar Point	Dune Gate	2101-10-31T23:00:00Z	route: Moor Link -> Moor Express
+6	NR-104	removed	Night Arc	Alder Quay	Dune Gate	2101-10-31T23:20:00Z	not in dispatch
+7	NR-105	reinstated	Estuary Star	Elm Dock	Firth Yard	2101-10-31T23:45:00Z	state: cancelled -> scheduled
